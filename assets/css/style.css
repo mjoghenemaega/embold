@@ -712,6 +712,9 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
         #header-logo-size1{
             width: 160px;
         }
+         #header-logo-size4{
+            width: 160px;
+        }
         
         
         }
@@ -720,6 +723,9 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
             width: 160px;
         }
         #header-logo-size1{
+            width: 160px;
+        }
+         #header-logo-size4{
             width: 160px;
         }
         
@@ -735,7 +741,9 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
         #header-logo-size4{
             width: 160px;
         }
-        
+         #header-logo-size5{
+            width: 160px;
+        }
 
         
         }
@@ -744,6 +752,9 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
             width: 160px;
         }
         #header-logo-size4{
+            width: 160px;
+        }
+         #header-logo-size4{
             width: 160px;
         }
         
