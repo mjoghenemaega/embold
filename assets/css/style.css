@@ -699,6 +699,61 @@ blockquote cite {
     border-radius: 5px
 }
 
+
+
+
+/* 
+HEADER LOGO CUSTOM STYLING +++++++++++ */
+
+@media only screen and (min-width:3099px) {
+        #header-logo-size{
+            width: 160px;
+        }
+        #header-logo-size1{
+            width: 160px;
+        }
+        
+        
+        }
+        @media only screen and (min-width:1199px) {
+        #header-logo-size{
+            width: 160px;
+        }
+        #header-logo-size1{
+            width: 160px;
+        }
+        
+        
+        }
+         @media only screen and (max-width:1199px) {
+        #header-logo-size{
+            width: 100px;
+        }
+         #header-logo-size3{
+            width: 160px;
+        }
+        #header-logo-size4{
+            width: 160px;
+        }
+        
+
+        
+        }
+         @media only screen and (max-width:960px) {
+        #header-logo-size3{
+            width: 160px;
+        }
+        #header-logo-size4{
+            width: 160px;
+        }
+        
+        }
+
+
+
+
+
+
 .tracer-nav .navbar .others-option .option-item .search-box .input-search {
     display: block;
     width: 100%;
