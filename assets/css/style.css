@@ -749,14 +749,12 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
         }
          @media only screen and (max-width:960px) {
         #header-logo-size3{
-            width: 160px;
+            width: 120px;
         }
         #header-logo-size4{
-            width: 160px;
+            width: 120px;
         }
-         #header-logo-size4{
-            width: 160px;
-        }
+  
         
         }
 
