@@ -754,8 +754,10 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
         #header-logo-size4{
             width: 120px;
         }
-  
-        
+         /* #header-logo-size4{
+            width: 160px;
+        }
+         */
         }
 
 
@@ -765,7 +767,7 @@ HEADER LOGO CUSTOM STYLING +++++++++++ */
 
 .tracer-nav .navbar .others-option .option-item .search-box .input-search {
     display: block;
-    width: 100%;
+    width: 100% !important;
     height: 48px;
     border: none;
     border-radius: 5px;
